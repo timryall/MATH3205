@@ -1,0 +1,63 @@
+node 0
+arc 0 : 5 10
+arc 1 : 1 80
+arc 2 : 2 80
+node 1
+arc 3 : 7 18
+arc 4 : 0 80
+arc 5 : 3 80
+node 2
+arc 6 : 6 20
+arc 7 : 3 80
+arc 8 : 0 80
+node 3
+arc 9 : 4 16
+arc 10 : 2 80
+arc 11 : 1 80
+node 4
+arc 12 : 8 10
+arc 13 : 5 80
+arc 14 : 6 80
+node 5
+arc 15 : 11 17
+arc 16 : 4 80
+arc 17 : 7 80
+node 6
+arc 18 : 9 20
+arc 19 : 7 80
+arc 20 : 4 80
+node 7
+arc 21 : 10 10
+arc 22 : 6 80
+arc 23 : 5 80
+node 8
+arc 24 : 14 16
+arc 25 : 9 80
+arc 26 : 10 80
+node 9
+arc 27 : 15 20
+arc 28 : 8 80
+arc 29 : 11 80
+node 10
+arc 30 : 13 17
+arc 31 : 11 80
+arc 32 : 8 80
+node 11
+arc 33 : 12 12
+arc 34 : 10 80
+arc 35 : 9 80
+node 12
+arc 36 : 13 80
+arc 37 : 14 80
+node 13
+arc 38 : 12 80
+arc 39 : 15 80
+node 14
+arc 40 : 15 80
+arc 41 : 12 80
+node 15
+arc 42 : 14 80
+arc 43 : 13 80
+arc 44 : 0 10000
+source : 0
+target : 15
